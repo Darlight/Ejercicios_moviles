@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="fish">fish</string>
+    <string name="chuckle_fish_foods">Chuckle FIsh Foods</string>
+    <string name="empty">Empty</string>
+    <string name="view_menu">View Menu</string>
+    <string name="view_petition">View Petition</string>
+</resources>
